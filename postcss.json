@@ -1,0 +1,4 @@
+{
+  "input": "app/src/styles/style.css",
+  "output": "app/dist/style.css",
+}
