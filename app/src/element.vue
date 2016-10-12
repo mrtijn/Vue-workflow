@@ -14,10 +14,8 @@
 
 <script>
     import Vue from 'vue';
-    import Loader from './common/loader.vue';
-    Vue.component('loader', Loader);
     export default {
-      ready(){
+      mounted(){
         console.log('Component loaded!');
       },
       data: function(){
