@@ -1,10 +1,13 @@
 # Vue-workflow
 
 ## Containing
-- Vuejs
+- Vuejsw
 - Vueify
-- Babel
-- PostCSS
+- Vuex
+- Babelify
+- Scss
 - normalize
 - Tweenmax
 - jQuery
+
+## Needs NPM Clean up
