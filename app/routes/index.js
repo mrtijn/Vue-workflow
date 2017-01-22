@@ -11,5 +11,6 @@ const routes = [
 ];
 
 export default new vueRouter({
+  mode: 'history',
   routes
 })

@@ -1,12 +1,9 @@
-<style scoped>
-  input{
-    display: block;
-  }
-</style>
-
 <template>
   <div>
-    Je {{title}} werkt!
+    <nav>
+      navbars
+    </nav>
+    Je {{title}} werkt!!!!
     <input type="text" name="name" v-model="title">
   </div>
 

@@ -1,0 +1,17 @@
+@import 'nav';
+html,body{
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: 'Arial', sans-serif;
+	color: #34495e;
+	background-color: #F1F1F1;
+}
+*{
+	box-sizing: border-box;
+}
+#app{
+	height: 100%;
+}
