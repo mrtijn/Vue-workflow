@@ -1,9 +1,9 @@
 <template>
   <div>
     <nav>
-      navbars
+      navbar
     </nav>
-    Je {{title}} werkt!!!!
+    Je {{title}} werkt!
     <input type="text" name="name" v-model="title">
   </div>
 
